@@ -10,17 +10,20 @@ notes and resources from the transit datathon 10/11+10/28 in SF
 # Data
 
 ### One week of nextbus realtime data  
-[AC Transit](https://s3-us-west-2.amazonaws.com/bdon-transitdata/actransit.tar.gz)  
-[SF MUNI](https://s3-us-west-2.amazonaws.com/bdon-transitdata/sf-muni.tar.gz)  
+* [AC Transit](https://s3-us-west-2.amazonaws.com/bdon-transitdata/actransit.tar.gz)  
+* [SF MUNI](https://s3-us-west-2.amazonaws.com/bdon-transitdata/sf-muni.tar.gz)  
 A collection of xml files for each minute. This data was collected from the [nextbus API](http://api-portal.anypoint.mulesoft.com/nextbus/api/nextbus-api/docs/reference)
 
 ### One month of BART entries and exits for all stations 
-[Entries](https://transit-data.s3.amazonaws.com/oct-2012-entries-json.zip)  
-[Exits](https://transit-data.s3.amazonaws.com/oct-2012-exits-json.zip)  
-[Entries and exits by hour](https://transit-data.s3.amazonaws.com/entriesexits.json)  
+* [Entries](https://transit-data.s3.amazonaws.com/oct-2012-entries-json.zip)  
+* [Exits](https://transit-data.s3.amazonaws.com/oct-2012-exits-json.zip)  
+* [Entries and exits by hour](https://transit-data.s3.amazonaws.com/entriesexits.json)  
 There is a file for each BART station, the file contains a JSON array of counts of entries or exits with a date and time by the minute.
 
-### In this repo
+### Collection of BART data
+* [BART strike hackathon](https://github.com/enjalot/bart/tree/master/data)  
+
+### Collection of MUNI data (In this repo)
 A collection of files related to SFMTA, including presenatations and data from MUNI
 
 * [RunReport](https://github.com/enjalot/transit-datathon/tree/master/RunReport) - Reports coming from SF MUNI, including data requested that's not usually published.
