@@ -7,8 +7,8 @@ notes and resources from the transit datathon 10/11+10/28 in SF
 # Data
 
 ### One week of nextbus realtime data  
-[AC Transit](https://dl.dropboxusercontent.com/u/2682489/actransit.tar.gz)  
-[SF MUNI](https://dl.dropboxusercontent.com/u/2682489/sf-muni.tar.gz)  
+[AC Transit](https://s3-us-west-2.amazonaws.com/bdon-transitdata/actransit.tar.gz)  
+[SF MUNI](https://s3-us-west-2.amazonaws.com/bdon-transitdata/sf-muni.tar.gz)  
 A collection of xml files for each minute. This data was collected from the [nextbus API](http://api-portal.anypoint.mulesoft.com/nextbus/api/nextbus-api/docs/reference)
 
 ### One month of BART entries and exits for all stations 
