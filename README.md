@@ -44,4 +44,6 @@ First course of action should be to call 311 and see if you can find out who in 
 [LAMTA](http://developer.metro.net/)  
 [wmata](http://developer.wmata.com/)  
 
-
+### Useful GitHub repositories
+[TransitJSON](https://github.com/codeforamerica/transitjson)
+[Shapely - Python Geometry](https://github.com/Toblerity/Shapely)
