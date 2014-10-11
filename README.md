@@ -26,14 +26,18 @@ A collection of files related to SFMTA, including presenatations and data from M
 * SFMTA Quarterly Report (Jul-Sep 2013).pdf - 
 * SFpark_Pilot_Project_Evaluation.pdf - 
 * StopInformation.xls - 
-* Strategic Plan Metrics Report - February 2014 FINAL.pdf - 
+* Strategic Plan Metrics Report - February 2014 FINAL.pdf - Comprehensive list of metrics on various aspects of the MUNI
 * Strategic Plan Progress Report - February 2014 FINAL.pdf - 
-* TEP-CAC3-18-14_v2.pdf - 
+* TEP-CAC3-18-14_v2.pdf - Transit Effectiveness Project, an attempt to optimize service
 * The Muni historic vehicle collection_060514.pdf - 
 * Track Repair Work at Cameron Beach Yard.pdf - 
 * Transit Links.docx - 
 
-
-# Use cases
+### Transit Agency APIs
+[VTA](http://www.vta.org/getting-around/gtfs-info/dev-links) - [data](https://data.vta.org/)    
+[BART](http://www.bart.gov/schedules/developers)  
+[Tri-Met](http://developer.trimet.org/)  
+[LAMTA](http://developer.metro.net/)  
+[wmata](http://developer.wmata.com/)  
 
 
