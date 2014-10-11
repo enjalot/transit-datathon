@@ -6,10 +6,10 @@ notes and resources from the transit datathon 10/11+10/28 in SF
 
 # Data
 
-### One week of Nextbus realtime data  
+### One week of nextbus realtime data  
 [AC Transit](https://dl.dropboxusercontent.com/u/2682489/actransit.tar.gz)  
 [SF MUNI](https://dl.dropboxusercontent.com/u/2682489/sf-muni.tar.gz)  
-This data was collected from the [NextBus API](http://api-portal.anypoint.mulesoft.com/nextbus/api/nextbus-api/docs/reference)
+This data was collected from the [nextbus API](http://api-portal.anypoint.mulesoft.com/nextbus/api/nextbus-api/docs/reference)
 
 ### One month of BART entries and exits for all stations 
 [Entries](https://transit-data.s3.amazonaws.com/oct-2012-entries-json.zip)  
@@ -20,11 +20,11 @@ There is a file for each BART station, the file contains a JSON array of counts 
 A collection of files related to SFMTA, including presenatations and data from MUNI
 
 * RunReport - 
-* 5-1-14 - 
-* NextBusXMLFeed.pdf -
-* RPP_Saturation - 
+* 5-1-14 Equity Strategy ppt.pdf - Report on service equity, demographics and socioeconomic status
+* NextBusXMLFeed.pdf - 
+* RPP_Saturation - Parking permit program data, collected manually from a public meeting. 
 * SFMTA Quarterly Report (Jul-Sep 2013).pdf - 
-* SFpark_Pilot_Project_Evaluation.pdf - 
+* SFpark_Pilot_Project_Evaluation.pdf - SF Park has real-time time meter data, this document explains the project along with thorough analysis
 * StopInformation.xls - 
 * Strategic Plan Metrics Report - February 2014 FINAL.pdf - Comprehensive list of metrics on various aspects of the MUNI
 * Strategic Plan Progress Report - February 2014 FINAL.pdf - 
