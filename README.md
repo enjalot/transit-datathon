@@ -27,7 +27,7 @@ A collection of files related to SFMTA, including presenatations and data from M
 * [SFpark_Pilot_Project_Evaluation.pdf](https://github.com/enjalot/transit-datathon/blob/master/SFpark_Pilot_Project_Evaluation.pdf) - SF Park has real-time time meter data, this document explains the project along with thorough analysis
 * [StopInformation.xls](https://github.com/enjalot/transit-datathon/blob/master/StopInformation.xls) - 
 * [Strategic Plan Metrics Report - February 2014 FINAL.pdf](https://github.com/enjalot/transit-datathon/blob/master/Strategic%20Plan%20Metrics%20Report%20-%20February%202014%20FINAL.pdf) - Comprehensive list of metrics on various aspects of the MUNI
-* [Strategic Plan Progress Report](https://github.com/enjalot/transit-datathon/blob/master/Strategic%20Plan%20Progress%20Report%20-%20February%202014%20FINAL.pdf) - February 2014 FINAL.pdf - 
+* [Strategic Plan Progress Report - February 2014 FINAL.pdf](https://github.com/enjalot/transit-datathon/blob/master/Strategic%20Plan%20Progress%20Report%20-%20February%202014%20FINAL.pdf) - 
 * [TEP-CAC3-18-14_v2.pdf](https://github.com/enjalot/transit-datathon/blob/master/TEP-CAC3-18-14_v2.pdf) - Transit Effectiveness Project, an attempt to optimize service
 * [The Muni historic vehicle collection_060514.pdf](https://github.com/enjalot/transit-datathon/blob/master/The%20Muni%20historic%20vehicle%20collection_060514.pdf) - 
 * [Track Repair Work at Cameron Beach Yard.pdf](https://github.com/enjalot/transit-datathon/blob/master/Track%20Repair%20Work%20at%20Cameron%20Beach%20Yard.pdf) - 
@@ -40,4 +40,8 @@ A collection of files related to SFMTA, including presenatations and data from M
 [LAMTA](http://developer.metro.net/)  
 [wmata](http://developer.wmata.com/)  
 
+### More links
+[NextBus XML feed](https://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)  
+More info on [TEP](http://muniforward.com/)  
+[SFPARK](http://sfpark.org/resources/docs_pilotevaluation/)  
 
