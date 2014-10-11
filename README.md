@@ -14,6 +14,7 @@ A collection of xml files for each minute. This data was collected from the [nex
 ### One month of BART entries and exits for all stations 
 [Entries](https://transit-data.s3.amazonaws.com/oct-2012-entries-json.zip)  
 [Exits](https://transit-data.s3.amazonaws.com/oct-2012-exits-json.zip)  
+[Entries and exits by hour](https://transit-data.s3.amazonaws.com/entriesexits.json)  
 There is a file for each BART station, the file contains a JSON array of counts of entries or exits with a date and time by the minute.
 
 ### In this repo
