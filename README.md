@@ -3,6 +3,9 @@ transit-datathon
 
 notes and resources from the transit datathon 10/11+10/28 in SF
 
+# Projects + Prototypes
+
+* [BART Entry/Exit by hour for each station per day](http://tributary.io/inlet/a45405fbc8eca92c9593)
 
 # Data
 
