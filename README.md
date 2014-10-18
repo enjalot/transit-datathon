@@ -60,4 +60,29 @@ First course of action should be to call 311 and see if you can find out who in 
 http://www.sfmta.com/about-sfmta/reports/gtfs-transit-data
 
 [Transformed Bus routes](https://dl-web.dropbox.com/get/Public/BusRoutes.zip?_subject_uid=66958528&w=AAB-W46nVyQcoTUEeTgRAiXscPXXp2AXd8kYXLmrqIOwDg)
+
 Traffic Density GeoJSON: in `/trafficdensity`
+
+
+* Hill Mapper - http://www.citylab.com/crime/2013/08/san-francisco-has-needed-long-time-hill-mapper/6431/
+
+* San Francisco Shapefile with street names:
+
+ https://s3.amazonaws.com/metro-extracts.mapzen.com/san-francisco_california.imposm-shapefiles.zip
+
+
+* SF 2011 Bicycle count report (PDF):
+
+http://archives.sfmta.com/cms/rbikes/documents/2011BicycleCountReportsml_002.pdf
+
+
+* SF 2011 Bicycle count (csv): see in `bicyclecounts`
+
+
+* SF streets Shapefiles
+
+https://data.sfgov.org/Geographic-Locations-and-Boundaries/San-Francisco-Basemap-Street-Centerlines-Zipped-Sh/5rn4-fswj
+
+ * SF topo Shapefiles
+
+https://data.sfgov.org/Geographic-Locations-and-Boundaries/Elevation-Contours-Zipped-Shapefile-Format-/x467-4ghd
