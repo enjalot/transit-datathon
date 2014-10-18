@@ -1,0 +1,3076 @@
+{
+   "city":"San Francisco",
+   "accidents":[
+      {
+         "lat":37.7726483,
+         "severity":"u'INJURY",
+         "street1":"11th St",
+         "street2":"Kissling St",
+         "image_id":0,
+         "year":"2012",
+         "date":"u'20120409",
+         "lng":-122.4150145
+      },
+      {
+         "lat":37.7724134,
+         "severity":"u'INJURY",
+         "street1":"11th St",
+         "street2":"Market",
+         "image_id":1,
+         "year":"2012",
+         "date":"u'20120419",
+         "lng":-122.4147158
+      },
+      {
+         "lat":37.7732078,
+         "severity":"u'INJURY",
+         "street1":"12th Av",
+         "street2":"Fulton St",
+         "image_id":2,
+         "year":"2012",
+         "date":"u'20120313",
+         "lng":-122.4701694
+      },
+      {
+         "lat":37.7709294,
+         "severity":"u'INJURY",
+         "street1":"12th St",
+         "street2":"Folsom St",
+         "image_id":3,
+         "year":"2012",
+         "date":"u'20120306",
+         "lng":-122.4150466
+      },
+      {
+         "lat":37.7696315,
+         "severity":"u'INJURY",
+         "street1":"13th St",
+         "street2":"Harrison St",
+         "image_id":4,
+         "year":"2012",
+         "date":"u'20120118",
+         "lng":-122.413332
+      },
+      {
+         "lat":37.7696315,
+         "severity":"u'INJURY",
+         "street1":"13th St",
+         "street2":"Harrison St",
+         "image_id":5,
+         "year":"2012",
+         "date":"u'20120130",
+         "lng":-122.413332
+      },
+      {
+         "lat":37.7697121,
+         "severity":"u'INJURY",
+         "street1":"13th St",
+         "street2":"Vanness",
+         "image_id":6,
+         "year":"2012",
+         "date":"u'20120509",
+         "lng":-122.4178256
+      },
+      {
+         "lat":37.7677354,
+         "severity":"u'INJURY",
+         "street1":"14th St",
+         "street2":"Church St",
+         "image_id":7,
+         "year":"2012",
+         "date":"u'20120206",
+         "lng":-122.4289483
+      },
+      {
+         "lat":37.7680039,
+         "severity":"u'INJURY",
+         "street1":"14th St",
+         "street2":"Guerrero St",
+         "image_id":8,
+         "year":"2012",
+         "date":"u'20120316",
+         "lng":-122.4244975
+      },
+      {
+         "lat":37.7679538,
+         "severity":"u'INJURY",
+         "street1":"14th St",
+         "street2":"Ramona Av",
+         "image_id":9,
+         "year":"2012",
+         "date":"u'20120218",
+         "lng":-122.4253988
+      },
+      {
+         "lat":37.7684817,
+         "severity":"u'INJURY",
+         "street1":"14th St",
+         "street2":"Shotwell St",
+         "image_id":10,
+         "year":"2012",
+         "date":"u'20120202",
+         "lng":-122.416711
+      },
+      {
+         "lat":37.7684217,
+         "severity":"u'INJURY",
+         "street1":"14th St",
+         "street2":"Vanness",
+         "image_id":11,
+         "year":"2012",
+         "date":"u'20120104",
+         "lng":-122.4178218
+      },
+      {
+         "lat":37.7681528,
+         "severity":"u'INJURY",
+         "street1":"14th St",
+         "street2":"Valencia St",
+         "image_id":12,
+         "year":"2012",
+         "date":"u'20120829",
+         "lng":-122.4222248
+      },
+      {
+         "lat":37.7655043,
+         "severity":"u'INJURY",
+         "street1":"16th St",
+         "street2":"Alabama St",
+         "image_id":13,
+         "year":"2012",
+         "date":"u'20120815",
+         "lng":-122.4124415
+      },
+      {
+         "lat":37.7648602,
+         "severity":"u'INJURY",
+         "street1":"16th St",
+         "street2":"Albion St",
+         "image_id":14,
+         "year":"2012",
+         "date":"u'20120220",
+         "lng":-122.422883
+      },
+      {
+         "lat":37.765618,
+         "severity":"u'INJURY",
+         "street1":"16th St",
+         "street2":"Bryant St",
+         "image_id":15,
+         "year":"2012",
+         "date":"u'20120208",
+         "lng":-122.4105284
+      },
+      {
+         "lat":37.7651267,
+         "severity":"u'INJURY",
+         "street1":"16th St",
+         "street2":"Capp St",
+         "image_id":16,
+         "year":"2012",
+         "date":"u'20120729",
+         "lng":-122.4186097
+      },
+      {
+         "lat":37.7653296,
+         "severity":"u'INJURY",
+         "street1":"16th St",
+         "street2":"Folsom St",
+         "image_id":17,
+         "year":"2012",
+         "date":"u'20120526",
+         "lng":-122.4153468
+      },
+      {
+         "lat":37.7666137,
+         "severity":"u'INJURY",
+         "street1":"16th St",
+         "street2":"Mississippi St",
+         "image_id":18,
+         "year":"2012",
+         "date":"u'20120131",
+         "lng":-122.3952032
+      },
+      {
+         "lat":37.7649612,
+         "severity":"u'INJURY",
+         "street1":"16th St",
+         "street2":"Rondelpl",
+         "image_id":19,
+         "year":"2012",
+         "date":"u'20120809",
+         "lng":-122.4212475
+      },
+      {
+         "lat":37.7628926,
+         "severity":"u'INJURY",
+         "street1":"17th St",
+         "street2":"Church St",
+         "image_id":20,
+         "year":"2012",
+         "date":"u'20120311",
+         "lng":-122.428515
+      },
+      {
+         "lat":37.7647373,
+         "severity":"u'PDO",
+         "street1":"17th St",
+         "street2":"Kansas St",
+         "image_id":21,
+         "year":"2012",
+         "date":"u'20120413",
+         "lng":-122.4035493
+      },
+      {
+         "lat":37.7634242,
+         "severity":"u'INJURY",
+         "street1":"17th St",
+         "street2":"Mission St",
+         "image_id":22,
+         "year":"2012",
+         "date":"u'20120515",
+         "lng":-122.4195575
+      },
+      {
+         "lat":37.7634242,
+         "severity":"u'INJURY",
+         "street1":"17th St",
+         "street2":"Mission St",
+         "image_id":23,
+         "year":"2012",
+         "date":"u'20120825",
+         "lng":-122.4195575
+      },
+      {
+         "lat":37.7524181,
+         "severity":"u'INJURY",
+         "street1":"18th Av",
+         "street2":"Ortega St",
+         "image_id":24,
+         "year":"2012",
+         "date":"u'20120725",
+         "lng":-122.4752821
+      },
+      {
+         "lat":37.7615686,
+         "severity":"u'INJURY",
+         "street1":"18th St",
+         "street2":"Guerrero St",
+         "image_id":25,
+         "year":"2012",
+         "date":"u'20120606",
+         "lng":-122.4238021
+      },
+      {
+         "lat":37.7605308,
+         "severity":"u'INJURY",
+         "street1":"18th St",
+         "street2":"Hattie St",
+         "image_id":26,
+         "year":"2012",
+         "date":"u'20120607",
+         "lng":-122.440918
+      },
+      {
+         "lat":37.7765743,
+         "severity":"u'INJURY",
+         "street1":"19th Av",
+         "street2":"Balboa St",
+         "image_id":27,
+         "year":"2012",
+         "date":"u'20120407",
+         "lng":-122.4780402
+      },
+      {
+         "lat":37.7910528,
+         "severity":"u'INJURY",
+         "street1":"1st St",
+         "street2":"Market St",
+         "image_id":28,
+         "year":"2012",
+         "date":"u'20120809",
+         "lng":-122.3991866
+      },
+      {
+         "lat":37.7597955,
+         "severity":"u'INJURY",
+         "street1":"20th Av",
+         "street2":"Kirkham St",
+         "image_id":29,
+         "year":"2012",
+         "date":"u'20120208",
+         "lng":-122.4779532
+      },
+      {
+         "lat":37.756969,
+         "severity":"u'INJURY",
+         "street1":"21st St",
+         "street2":"Bartlett St",
+         "image_id":30,
+         "year":"2012",
+         "date":"u'20120419",
+         "lng":-122.420011
+      },
+      {
+         "lat":37.7570308,
+         "severity":"u'INJURY",
+         "street1":"21st St",
+         "street2":"Mission St",
+         "image_id":31,
+         "year":"2012",
+         "date":"u'20120417",
+         "lng":-122.4189302
+      },
+      {
+         "lat":37.7552793,
+         "severity":"u'INJURY",
+         "street1":"22nd St",
+         "street2":"Sanjose Av",
+         "image_id":32,
+         "year":"2012",
+         "date":"u'20120227",
+         "lng":-122.4214569
+      },
+      {
+         "lat":37.7526368,
+         "severity":"u'INJURY",
+         "street1":"24th St",
+         "street2":"Harrison St",
+         "image_id":33,
+         "year":"2012",
+         "date":"u'20120711",
+         "lng":-122.4118888
+      },
+      {
+         "lat":37.7523682,
+         "severity":"u'INJURY",
+         "street1":"24th St",
+         "street2":"Svanness Av",
+         "image_id":34,
+         "year":"2012",
+         "date":"u'20120110",
+         "lng":-122.4162688
+      },
+      {
+         "lat":37.7516319,
+         "severity":"u'INJURY",
+         "street1":"24th St",
+         "street2":"Vicksburg St",
+         "image_id":35,
+         "year":"2012",
+         "date":"u'20120831",
+         "lng":-122.4285462
+      },
+      {
+         "lat":37.7781536,
+         "severity":"u'INJURY",
+         "street1":"25th Av",
+         "street2":"Anza St",
+         "image_id":36,
+         "year":"2012",
+         "date":"u'20120827",
+         "lng":-122.4845547
+      },
+      {
+         "lat":37.7857403,
+         "severity":"u'INJURY",
+         "street1":"25th Av",
+         "street2":"Lake St",
+         "image_id":37,
+         "year":"2012",
+         "date":"u'20120401",
+         "lng":-122.4851044
+      },
+      {
+         "lat":37.7855505,
+         "severity":"u'PDO",
+         "street1":"2nd St",
+         "street2":"Folsom St",
+         "image_id":38,
+         "year":"2012",
+         "date":"u'20120309",
+         "lng":-122.3967177
+      },
+      {
+         "lat":37.7876012,
+         "severity":"u'INJURY",
+         "street1":"2nd St",
+         "street2":"Minna St",
+         "image_id":39,
+         "year":"2012",
+         "date":"u'20120718",
+         "lng":-122.3993312
+      },
+      {
+         "lat":37.7835245,
+         "severity":"u'INJURY",
+         "street1":"2nd St",
+         "street2":"Stillman St",
+         "image_id":40,
+         "year":"2012",
+         "date":"u'20120720",
+         "lng":-122.3941704
+      },
+      {
+         "lat":37.7477995,
+         "severity":"u'INJURY",
+         "street1":"37th Av",
+         "street2":"Quintara St",
+         "image_id":41,
+         "year":"2012",
+         "date":"u'20120606",
+         "lng":-122.4953671
+      },
+      {
+         "lat":37.7729368,
+         "severity":"u'INJURY",
+         "street1":"3rd St",
+         "street2":"Missionrockrd",
+         "image_id":42,
+         "year":"2012",
+         "date":"u'20120817",
+         "lng":-122.3898089
+      },
+      {
+         "lat":37.7817709,
+         "severity":"u'INJURY",
+         "street1":"3rd St",
+         "street2":"Stillman St",
+         "image_id":43,
+         "year":"2012",
+         "date":"u'20120330",
+         "lng":-122.3964107
+      },
+      {
+         "lat":37.7292336,
+         "severity":"u'INJURY",
+         "street1":"3rd St",
+         "street2":"Vandyke Av",
+         "image_id":44,
+         "year":"2012",
+         "date":"u'20120411",
+         "lng":-122.3925655
+      },
+      {
+         "lat":37.758803,
+         "severity":"u'INJURY",
+         "street1":"41st Av",
+         "street2":"Kirkham St",
+         "image_id":45,
+         "year":"2012",
+         "date":"u'20120115",
+         "lng":-122.5004339
+      },
+      {
+         "lat":37.7791925,
+         "severity":"u'INJURY",
+         "street1":"4th Av",
+         "street2":"Anza St",
+         "image_id":46,
+         "year":"2012",
+         "date":"u'20120420",
+         "lng":-122.462002
+      },
+      {
+         "lat":37.7820607,
+         "severity":"u'INJURY",
+         "street1":"4th St",
+         "street2":"Folsom St",
+         "image_id":47,
+         "year":"2012",
+         "date":"u'20120116",
+         "lng":-122.4011821
+      },
+      {
+         "lat":37.7852826,
+         "severity":"u'INJURY",
+         "street1":"4th St",
+         "street2":"Stevenson",
+         "image_id":48,
+         "year":"2012",
+         "date":"u'20120427",
+         "lng":-122.4052367
+      },
+      {
+         "lat":37.7765851,
+         "severity":"u'INJURY",
+         "street1":"5th St",
+         "street2":"Brannan St",
+         "image_id":49,
+         "year":"2012",
+         "date":"u'20120118",
+         "lng":-122.398772
+      },
+      {
+         "lat":37.7802841,
+         "severity":"u'INJURY",
+         "street1":"5th St",
+         "street2":"Folsom St",
+         "image_id":50,
+         "year":"2012",
+         "date":"u'20120606",
+         "lng":-122.4034164
+      },
+      {
+         "lat":37.779049,
+         "severity":"u'INJURY",
+         "street1":"5th St",
+         "street2":"Harrison St",
+         "image_id":51,
+         "year":"2012",
+         "date":"u'20120427",
+         "lng":-122.4018621
+      },
+      {
+         "lat":37.7785241,
+         "severity":"u'INJURY",
+         "street1":"6th St",
+         "street2":"Folsom St",
+         "image_id":52,
+         "year":"2012",
+         "date":"u'20120729",
+         "lng":-122.4056342
+      },
+      {
+         "lat":37.7622695,
+         "severity":"u'INJURY",
+         "street1":"7th Av",
+         "street2":"Judah St",
+         "image_id":53,
+         "year":"2012",
+         "date":"u'20120118",
+         "lng":-122.4640639
+      },
+      {
+         "lat":37.7730575,
+         "severity":"u'INJURY",
+         "street1":"7th St",
+         "street2":"Brannan St",
+         "image_id":54,
+         "year":"2012",
+         "date":"u'20120411",
+         "lng":-122.4032376
+      },
+      {
+         "lat":37.7660197,
+         "severity":"u'INJURY",
+         "street1":"8th Av",
+         "street2":"Lincoln Av",
+         "image_id":55,
+         "year":"2012",
+         "date":"u'20120216",
+         "lng":-122.4653809
+      },
+      {
+         "lat":37.7713302,
+         "severity":"u'INJURY",
+         "street1":"8th St",
+         "street2":"Brannan St",
+         "image_id":56,
+         "year":"2012",
+         "date":"u'20120629",
+         "lng":-122.4054307
+      },
+      {
+         "lat":37.7725615,
+         "severity":"u'INJURY",
+         "street1":"8th St",
+         "street2":"Bryant St",
+         "image_id":57,
+         "year":"2012",
+         "date":"u'20120512",
+         "lng":-122.4069632
+      },
+      {
+         "lat":37.7666908,
+         "severity":"u'INJURY",
+         "street1":"8th St",
+         "street2":"Irwin St",
+         "image_id":58,
+         "year":"2012",
+         "date":"u'20120605",
+         "lng":-122.3997197
+      },
+      {
+         "lat":37.7774649,
+         "severity":"u'INJURY",
+         "street1":"8th St",
+         "street2":"Mission St",
+         "image_id":59,
+         "year":"2012",
+         "date":"u'20120519",
+         "lng":-122.4131792
+      },
+      {
+         "lat":37.7774649,
+         "severity":"u'INJURY",
+         "street1":"8th St",
+         "street2":"Mission St",
+         "image_id":60,
+         "year":"2012",
+         "date":"u'20120722",
+         "lng":-122.4131792
+      },
+      {
+         "lat":37.7737855,
+         "severity":"u'INJURY",
+         "street1":"9th St",
+         "street2":"Folsom St",
+         "image_id":61,
+         "year":"2012",
+         "date":"u'20120827",
+         "lng":-122.4116385
+      },
+      {
+         "lat":37.7762211,
+         "severity":"u'PDO",
+         "street1":"9th St",
+         "street2":"Mission St",
+         "image_id":62,
+         "year":"2012",
+         "date":"u'20120312",
+         "lng":-122.4147406
+      },
+      {
+         "lat":37.734785,
+         "severity":"u'INJURY",
+         "street1":"Alemany",
+         "street2":"Crescent Av",
+         "image_id":63,
+         "year":"2012",
+         "date":"u'20120210",
+         "lng":-122.4108679
+      },
+      {
+         "lat":37.776179,
+         "severity":"u'INJURY",
+         "street1":"Arguello Bl",
+         "street2":"Goldengate Av",
+         "image_id":64,
+         "year":"2012",
+         "date":"u'20120117",
+         "lng":-122.4584981
+      },
+      {
+         "lat":37.7752481,
+         "severity":"u'INJURY",
+         "street1":"Arguello Bl",
+         "street2":"Mcallister St",
+         "image_id":65,
+         "year":"2012",
+         "date":"u'20120420",
+         "lng":-122.4584281
+      },
+      {
+         "lat":37.788405,
+         "severity":"u'INJURY",
+         "street1":"Arguello Bl",
+         "street2":"Presidiote",
+         "image_id":66,
+         "year":"2012",
+         "date":"u'20120205",
+         "lng":-122.459388
+      },
+      {
+         "lat":37.7813444,
+         "severity":"u'INJURY",
+         "street1":"Arguello St",
+         "street2":"Geary Bl",
+         "image_id":67,
+         "year":"2012",
+         "date":"u'20120830",
+         "lng":-122.4588752
+      },
+      {
+         "lat":37.773915,
+         "severity":"u'INJURY",
+         "street1":"Ashbury St",
+         "street2":"Ashburyst80",
+         "image_id":68,
+         "year":"2012",
+         "date":"u'20120630",
+         "lng":-122.436524
+      },
+      {
+         "lat":37.7736412,
+         "severity":"u'PDO",
+         "street1":"Baker St",
+         "street2":"Fell St",
+         "image_id":69,
+         "year":"2012",
+         "date":"u'20120424",
+         "lng":-122.4409112
+      },
+      {
+         "lat":37.7279635,
+         "severity":"u'INJURY",
+         "street1":"Bayshore",
+         "street2":"Bacon St",
+         "image_id":70,
+         "year":"2012",
+         "date":"u'20120721",
+         "lng":-122.4021642
+      },
+      {
+         "lat":37.8048154,
+         "severity":"u'INJURY",
+         "street1":"Bay St",
+         "street2":"Hyde St",
+         "image_id":71,
+         "year":"2012",
+         "date":"u'20120325",
+         "lng":-122.4201958
+      },
+      {
+         "lat":37.8081151,
+         "severity":"u'INJURY",
+         "street1":"Beach St",
+         "street2":"Grant Av",
+         "image_id":72,
+         "year":"2012",
+         "date":"u'20120802",
+         "lng":-122.4090985
+      },
+      {
+         "lat":37.7334852,
+         "severity":"u'INJURY",
+         "street1":"Bosworth St",
+         "street2":"Cuvier",
+         "image_id":73,
+         "year":"2012",
+         "date":"u'20120421",
+         "lng":-122.4286003
+      },
+      {
+         "lat":37.7818497,
+         "severity":"u'INJURY",
+         "street1":"Brannan St",
+         "street2":"2nd St",
+         "image_id":74,
+         "year":"2012",
+         "date":"u'20120403",
+         "lng":-122.3920993
+      },
+      {
+         "lat":37.778341,
+         "severity":"u'INJURY",
+         "street1":"Brannan St",
+         "street2":"4th St",
+         "image_id":75,
+         "year":"2012",
+         "date":"u'20120515",
+         "lng":-122.3965525
+      },
+      {
+         "lat":37.7987416,
+         "severity":"u'INJURY",
+         "street1":"Broadway",
+         "street2":"Front St",
+         "image_id":76,
+         "year":"2012",
+         "date":"u'20120816",
+         "lng":-122.3998991
+      },
+      {
+         "lat":37.7976479,
+         "severity":"u'INJURY",
+         "street1":"Broadway",
+         "street2":"Stockton",
+         "image_id":77,
+         "year":"2012",
+         "date":"u'20120419",
+         "lng":-122.4086392
+      },
+      {
+         "lat":37.7959845,
+         "severity":"u'INJURY",
+         "street1":"Broadway St",
+         "street2":"Polk St",
+         "image_id":78,
+         "year":"2012",
+         "date":"u'20120518",
+         "lng":-122.4217921
+      },
+      {
+         "lat":37.7681764,
+         "severity":"u'INJURY",
+         "street1":"Bryant St",
+         "street2":"Alameda St",
+         "image_id":79,
+         "year":"2012",
+         "date":"u'20120206",
+         "lng":-122.4107552
+      },
+      {
+         "lat":37.7734778,
+         "severity":"u'INJURY",
+         "street1":"Buchanan St",
+         "street2":"Page St",
+         "image_id":80,
+         "year":"2012",
+         "date":"u'20120818",
+         "lng":-122.4273467
+      },
+      {
+         "lat":37.790976,
+         "severity":"u'PDO",
+         "street1":"Bush St",
+         "street2":"Montgomery St",
+         "image_id":81,
+         "year":"2012",
+         "date":"u'20120117",
+         "lng":-122.4024281
+      },
+      {
+         "lat":37.774876,
+         "severity":"u'INJURY",
+         "street1":"Cabrillo St",
+         "street2":"16th Av",
+         "image_id":82,
+         "year":"2012",
+         "date":"u'20120610",
+         "lng":-122.4747175
+      },
+      {
+         "lat":37.7842709,
+         "severity":"u'INJURY",
+         "street1":"California St",
+         "street2":"17th Av",
+         "image_id":83,
+         "year":"2012",
+         "date":"u'20120616",
+         "lng":-122.4764544
+      },
+      {
+         "lat":37.7878596,
+         "severity":"u'INJURY",
+         "street1":"California St",
+         "street2":"Broderick St",
+         "image_id":84,
+         "year":"2012",
+         "date":"u'20120813",
+         "lng":-122.44211
+      },
+      {
+         "lat":37.7555087,
+         "severity":"u'INJURY",
+         "street1":"Capp St",
+         "street2":"22nd St",
+         "image_id":85,
+         "year":"2012",
+         "date":"u'20120721",
+         "lng":-122.4176652
+      },
+      {
+         "lat":37.7627477,
+         "severity":"u'INJURY",
+         "street1":"Castro St",
+         "street2":"17th St",
+         "image_id":86,
+         "year":"2012",
+         "date":"u'20120302",
+         "lng":-122.4351586
+      },
+      {
+         "lat":37.7482566,
+         "severity":"u'INJURY",
+         "street1":"Cesarchavez",
+         "street2":"Harrison St",
+         "image_id":87,
+         "year":"2012",
+         "date":"u'20120107",
+         "lng":-122.411481
+      },
+      {
+         "lat":37.7383545,
+         "severity":"u'INJURY",
+         "street1":"Chenery St",
+         "street2":"Charles St",
+         "image_id":88,
+         "year":"2012",
+         "date":"u'20120322",
+         "lng":-122.4261058
+      },
+      {
+         "lat":37.7793668,
+         "severity":"u'INJURY",
+         "street1":"Chinaba",
+         "street2":"3rd St",
+         "image_id":89,
+         "year":"2012",
+         "date":"u'20120707",
+         "lng":-122.3934134
+      },
+      {
+         "lat":37.7823567,
+         "severity":"u'INJURY",
+         "street1":"Clement St",
+         "street2":"18th Av",
+         "image_id":90,
+         "year":"2012",
+         "date":"u'20120131",
+         "lng":-122.4773847
+      },
+      {
+         "lat":37.7829523,
+         "severity":"u'INJURY",
+         "street1":"Clement St",
+         "street2":"6th Av",
+         "image_id":91,
+         "year":"2012",
+         "date":"u'20120108",
+         "lng":-122.4644277
+      },
+      {
+         "lat":37.7828017,
+         "severity":"u'INJURY",
+         "street1":"Clement St",
+         "street2":"9th Av",
+         "image_id":92,
+         "year":"2012",
+         "date":"u'20120705",
+         "lng":-122.4676437
+      },
+      {
+         "lat":37.76556,
+         "severity":"u'INJURY",
+         "street1":"Cole St",
+         "street2":"Carl St",
+         "image_id":93,
+         "year":"2012",
+         "date":"u'20120119",
+         "lng":-122.44996
+      },
+      {
+         "lat":37.803794,
+         "severity":"u'INJURY",
+         "street1":"Columbus Av",
+         "street2":"Chestnut St",
+         "image_id":94,
+         "year":"2012",
+         "date":"u'20120428",
+         "lng":-122.415136
+      },
+      {
+         "lat":37.797267,
+         "severity":"u'INJURY",
+         "street1":"Columbus Av",
+         "street2":"Columbus Av",
+         "image_id":95,
+         "year":"2012",
+         "date":"u'20120731",
+         "lng":-122.406098
+      },
+      {
+         "lat":37.8019526,
+         "severity":"u'INJURY",
+         "street1":"Columbus Av",
+         "street2":"Greenwich St",
+         "image_id":96,
+         "year":"2012",
+         "date":"u'20120818",
+         "lng":-122.412639
+      },
+      {
+         "lat":37.7397234,
+         "severity":"u'INJURY",
+         "street1":"Cortland Av",
+         "street2":"Bradford St",
+         "image_id":97,
+         "year":"2012",
+         "date":"u'20120516",
+         "lng":-122.4094832
+      },
+      {
+         "lat":37.7722232,
+         "severity":"u'INJURY",
+         "street1":"Divisadero St",
+         "street2":"Page St",
+         "image_id":98,
+         "year":"2012",
+         "date":"u'20120501",
+         "lng":-122.4371587
+      },
+      {
+         "lat":37.7694443,
+         "severity":"u'PDO",
+         "street1":"Division St",
+         "street2":"9th St",
+         "image_id":99,
+         "year":"2012",
+         "date":"u'20120309",
+         "lng":-122.4062321
+      },
+      {
+         "lat":37.7694443,
+         "severity":"u'INJURY",
+         "street1":"Division St",
+         "street2":"9th St",
+         "image_id":100,
+         "year":"2012",
+         "date":"u'20120705",
+         "lng":-122.4062321
+      },
+      {
+         "lat":37.7662724,
+         "severity":"u'INJURY",
+         "street1":"Dolores St",
+         "street2":"15th St",
+         "image_id":101,
+         "year":"2012",
+         "date":"u'20120116",
+         "lng":-122.4264995
+      },
+      {
+         "lat":37.7700039,
+         "severity":"u'INJURY",
+         "street1":"Duboce Av",
+         "street2":"Mission St",
+         "image_id":102,
+         "year":"2012",
+         "date":"u'20120626",
+         "lng":-122.4178412
+      },
+      {
+         "lat":37.7846631,
+         "severity":"u'INJURY",
+         "street1":"Ellis St",
+         "street2":"Leavenworth",
+         "image_id":103,
+         "year":"2012",
+         "date":"u'20120422",
+         "lng":-122.4144723
+      },
+      {
+         "lat":37.7850798,
+         "severity":"u'INJURY",
+         "street1":"Ellis St",
+         "street2":"Taylor St",
+         "image_id":104,
+         "year":"2012",
+         "date":"u'20120201",
+         "lng":-122.4111597
+      },
+      {
+         "lat":37.7642386,
+         "severity":"u'INJURY",
+         "street1":"The Embarcadero",
+         "street2":"Mission St",
+         "image_id":105,
+         "year":"2012",
+         "date":"u'20120814",
+         "lng":-122.4196362
+      },
+      {
+         "lat":37.794105,
+         "severity":"u'INJURY",
+         "street1":"The Embarcadero",
+         "street2":"Donchee",
+         "image_id":106,
+         "year":"2012",
+         "date":"u'20120129",
+         "lng":-122.393874
+      },
+      {
+         "lat":37.794105,
+         "severity":"u'INJURY",
+         "street1":"The Embarcadero",
+         "street2":"Donchee",
+         "image_id":107,
+         "year":"2012",
+         "date":"u'20120203",
+         "lng":-122.393874
+      },
+      {
+         "lat":37.789524,
+         "severity":"u'INJURY",
+         "street1":"The Embarcadero",
+         "street2":"Harrison Bl",
+         "image_id":108,
+         "year":"2012",
+         "date":"u'20120626",
+         "lng":-122.3886044
+      },
+      {
+         "lat":37.7803611,
+         "severity":"u'INJURY",
+         "street1":"Embarcadero St",
+         "street2":"Brannan St",
+         "image_id":109,
+         "year":"2012",
+         "date":"u'20120515",
+         "lng":-122.3939557
+      },
+      {
+         "lat":37.7574921,
+         "severity":"u'PDO",
+         "street1":"Eureka St",
+         "street2":"20th St",
+         "image_id":110,
+         "year":"2012",
+         "date":"u'20120108",
+         "lng":-122.4379429
+      },
+      {
+         "lat":37.7736412,
+         "severity":"u'INJURY",
+         "street1":"Fell St",
+         "street2":"Baker St",
+         "image_id":111,
+         "year":"2012",
+         "date":"u'20120522",
+         "lng":-122.4409112
+      },
+      {
+         "lat":37.7738686,
+         "severity":"u'INJURY",
+         "street1":"Fell St",
+         "street2":"Broderick St",
+         "image_id":112,
+         "year":"2012",
+         "date":"u'20120617",
+         "lng":-122.4392751
+      },
+      {
+         "lat":37.7740721,
+         "severity":"u'PDO",
+         "street1":"Fell St",
+         "street2":"Divisadero St",
+         "image_id":113,
+         "year":"2012",
+         "date":"u'20120107",
+         "lng":-122.4376238
+      },
+      {
+         "lat":37.7740721,
+         "severity":"u'INJURY",
+         "street1":"Fell St",
+         "street2":"Divisadero St",
+         "image_id":114,
+         "year":"2012",
+         "date":"u'20120214",
+         "lng":-122.4376238
+      },
+      {
+         "lat":37.7740721,
+         "severity":"u'INJURY",
+         "street1":"Fell St",
+         "street2":"Divisadero St",
+         "image_id":115,
+         "year":"2012",
+         "date":"u'20120215",
+         "lng":-122.4376238
+      },
+      {
+         "lat":37.7740721,
+         "severity":"u'INJURY",
+         "street1":"Fell St",
+         "street2":"Divisadero St",
+         "image_id":116,
+         "year":"2012",
+         "date":"u'20120406",
+         "lng":-122.4376238
+      },
+      {
+         "lat":37.7734303,
+         "severity":"u'INJURY",
+         "street1":"Fell St",
+         "street2":"Lyon St",
+         "image_id":117,
+         "year":"2012",
+         "date":"u'20120126",
+         "lng":-122.4425649
+      },
+      {
+         "lat":37.7889131,
+         "severity":"u'INJURY",
+         "street1":"Fillmore St",
+         "street2":"California St",
+         "image_id":118,
+         "year":"2012",
+         "date":"u'20120605",
+         "lng":-122.4338632
+      },
+      {
+         "lat":37.7685432,
+         "severity":"u'INJURY",
+         "street1":"Folsom St",
+         "street2":"14th St",
+         "image_id":119,
+         "year":"2012",
+         "date":"u'20120607",
+         "lng":-122.4156459
+      },
+      {
+         "lat":37.7785241,
+         "severity":"u'INJURY",
+         "street1":"Folsom St",
+         "street2":"6th St",
+         "image_id":120,
+         "year":"2012",
+         "date":"u'20120713",
+         "lng":-122.4056342
+      },
+      {
+         "lat":37.7785241,
+         "severity":"u'INJURY",
+         "street1":"Folsom St",
+         "street2":"6th St",
+         "image_id":121,
+         "year":"2012",
+         "date":"u'20120810",
+         "lng":-122.4056342
+      },
+      {
+         "lat":37.775947,
+         "severity":"u'INJURY",
+         "street1":"Folsom St",
+         "street2":"Hallam St",
+         "image_id":122,
+         "year":"2012",
+         "date":"u'20120501",
+         "lng":-122.4088944
+      },
+      {
+         "lat":37.7752318,
+         "severity":"u'FATAL",
+         "street1":"Franklin St",
+         "street2":"Oak St",
+         "image_id":123,
+         "year":"2012",
+         "date":"u'20120529",
+         "lng":-122.420976
+      },
+      {
+         "lat":37.794607,
+         "severity":"u'INJURY",
+         "street1":"Franklin St",
+         "street2":"Pacific Av",
+         "image_id":124,
+         "year":"2012",
+         "date":"u'20120812",
+         "lng":-122.4248841
+      },
+      {
+         "lat":37.8006271,
+         "severity":"u'INJURY",
+         "street1":"Front St",
+         "street2":"Green St",
+         "image_id":125,
+         "year":"2012",
+         "date":"u'20120621",
+         "lng":-122.4002702
+      },
+      {
+         "lat":37.774338,
+         "severity":"u'INJURY",
+         "street1":"Fulton St",
+         "street2":"Arguello Bl",
+         "image_id":126,
+         "year":"2012",
+         "date":"u'20120103",
+         "lng":-122.458356
+      },
+      {
+         "lat":37.7766543,
+         "severity":"u'INJURY",
+         "street1":"Fulton St",
+         "street2":"Broderick St",
+         "image_id":127,
+         "year":"2012",
+         "date":"u'20120118",
+         "lng":-122.4398489
+      },
+      {
+         "lat":37.7760211,
+         "severity":"u'INJURY",
+         "street1":"Fulton St",
+         "street2":"Central Av",
+         "image_id":128,
+         "year":"2012",
+         "date":"u'20120828",
+         "lng":-122.4447795
+      },
+      {
+         "lat":37.7760211,
+         "severity":"u'INJURY",
+         "street1":"Fulton St",
+         "street2":"Central Av",
+         "image_id":129,
+         "year":"2012",
+         "date":"u'20120828",
+         "lng":-122.4447795
+      },
+      {
+         "lat":37.7810375,
+         "severity":"u'INJURY",
+         "street1":"Geary Bl",
+         "street2":"7th Av",
+         "image_id":130,
+         "year":"2012",
+         "date":"u'20120608",
+         "lng":-122.4653564
+      },
+      {
+         "lat":37.7808603,
+         "severity":"u'INJURY",
+         "street1":"Geary Bl",
+         "street2":"8th Av",
+         "image_id":131,
+         "year":"2012",
+         "date":"u'20120521",
+         "lng":-122.4664251
+      },
+      {
+         "lat":37.7833959,
+         "severity":"u'INJURY",
+         "street1":"Geary Bl",
+         "street2":"Divisadero",
+         "image_id":132,
+         "year":"2012",
+         "date":"u'20120718",
+         "lng":-122.4394308
+      },
+      {
+         "lat":37.7877706,
+         "severity":"u'INJURY",
+         "street1":"Geary Bl",
+         "street2":"Grant Av",
+         "image_id":133,
+         "year":"2012",
+         "date":"u'20120301",
+         "lng":-122.4051121
+      },
+      {
+         "lat":37.7100883,
+         "severity":"u'INJURY",
+         "street1":"Geneva Av",
+         "street2":"Brookdale Av",
+         "image_id":134,
+         "year":"2012",
+         "date":"u'20120227",
+         "lng":-122.4245787
+      },
+      {
+         "lat":37.7156442,
+         "severity":"u'INJURY",
+         "street1":"Geneva Av",
+         "street2":"Paris St",
+         "image_id":135,
+         "year":"2012",
+         "date":"u'20120223",
+         "lng":-122.4394706
+      },
+      {
+         "lat":37.7207581,
+         "severity":"u'INJURY",
+         "street1":"Geneva Av",
+         "street2":"Sanjose Av",
+         "image_id":136,
+         "year":"2012",
+         "date":"u'20120620",
+         "lng":-122.4465759
+      },
+      {
+         "lat":37.7789495,
+         "severity":"u'INJURY",
+         "street1":"Goldengatebridge",
+         "street2":"Scott St",
+         "image_id":137,
+         "year":"2012",
+         "date":"u'20120712",
+         "lng":-122.4368706
+      },
+      {
+         "lat":37.7793637,
+         "severity":"u'INJURY",
+         "street1":"Goldengatebridge",
+         "street2":"Steiner St",
+         "image_id":138,
+         "year":"2012",
+         "date":"u'20120516",
+         "lng":-122.433592
+      },
+      {
+         "lat":37.7943931,
+         "severity":"u'INJURY",
+         "street1":"Gough",
+         "street2":"Pacific Av",
+         "image_id":139,
+         "year":"2012",
+         "date":"u'20120308",
+         "lng":-122.4265472
+      },
+      {
+         "lat":37.7370173,
+         "severity":"u'INJURY",
+         "street1":"Greathighway",
+         "street2":"Cutler St",
+         "image_id":140,
+         "year":"2012",
+         "date":"u'20120128",
+         "lng":-122.5063388
+      },
+      {
+         "lat":37.7780313,
+         "severity":"u'INJURY",
+         "street1":"Grove St",
+         "street2":"Franklin St",
+         "image_id":141,
+         "year":"2012",
+         "date":"u'20120201",
+         "lng":-122.4215283
+      },
+      {
+         "lat":37.7786757,
+         "severity":"u'INJURY",
+         "street1":"Grove St",
+         "street2":"Larkin St",
+         "image_id":142,
+         "year":"2012",
+         "date":"u'20120311",
+         "lng":-122.4166025
+      },
+      {
+         "lat":37.7786757,
+         "severity":"u'INJURY",
+         "street1":"Grove St",
+         "street2":"Larkin St",
+         "image_id":143,
+         "year":"2012",
+         "date":"u'20120324",
+         "lng":-122.4166025
+      },
+      {
+         "lat":37.7782859,
+         "severity":"u'INJURY",
+         "street1":"Grove St",
+         "street2":"Vanness Av",
+         "image_id":144,
+         "year":"2012",
+         "date":"u'20120719",
+         "lng":-122.419828
+      },
+      {
+         "lat":37.7479746,
+         "severity":"u'INJURY",
+         "street1":"Guerrero St",
+         "street2":"Cesarchavez",
+         "image_id":145,
+         "year":"2012",
+         "date":"u'20120614",
+         "lng":-122.422421
+      },
+      {
+         "lat":37.7700099,
+         "severity":"u'INJURY",
+         "street1":"Haight St",
+         "street2":"Ashbury St",
+         "image_id":146,
+         "year":"2012",
+         "date":"u'20120307",
+         "lng":-122.4469365
+      },
+      {
+         "lat":37.7712749,
+         "severity":"u'INJURY",
+         "street1":"Haight St",
+         "street2":"Divisadero St",
+         "image_id":147,
+         "year":"2012",
+         "date":"u'20120217",
+         "lng":-122.4371285
+      },
+      {
+         "lat":37.7712749,
+         "severity":"u'INJURY",
+         "street1":"Haight St",
+         "street2":"Divisadero St",
+         "image_id":148,
+         "year":"2012",
+         "date":"u'20120330",
+         "lng":-122.4371285
+      },
+      {
+         "lat":37.7727315,
+         "severity":"u'PDO",
+         "street1":"Haight St",
+         "street2":"Laguna St",
+         "image_id":149,
+         "year":"2012",
+         "date":"u'20120324",
+         "lng":-122.4255433
+      },
+      {
+         "lat":37.771487,
+         "severity":"u'INJURY",
+         "street1":"Haight St",
+         "street2":"Scott St",
+         "image_id":150,
+         "year":"2012",
+         "date":"u'20120120",
+         "lng":-122.4353672
+      },
+      {
+         "lat":37.7706429,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"11th St",
+         "image_id":151,
+         "year":"2012",
+         "date":"u'20120217",
+         "lng":-122.4124994
+      },
+      {
+         "lat":37.7700744,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"12th St",
+         "image_id":152,
+         "year":"2012",
+         "date":"u'20120214",
+         "lng":-122.4130826
+      },
+      {
+         "lat":37.7696315,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"13th St",
+         "image_id":153,
+         "year":"2012",
+         "date":"u'20120714",
+         "lng":-122.413332
+      },
+      {
+         "lat":37.7590319,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"20th St",
+         "image_id":154,
+         "year":"2012",
+         "date":"u'20120512",
+         "lng":-122.4125147
+      },
+      {
+         "lat":37.7590319,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"20th St",
+         "image_id":155,
+         "year":"2012",
+         "date":"u'20120729",
+         "lng":-122.4125147
+      },
+      {
+         "lat":37.7574294,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"21st St",
+         "image_id":156,
+         "year":"2012",
+         "date":"u'20120318",
+         "lng":-122.4123656
+      },
+      {
+         "lat":37.7574294,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"21st St",
+         "image_id":157,
+         "year":"2012",
+         "date":"u'20120419",
+         "lng":-122.4123656
+      },
+      {
+         "lat":37.7628873,
+         "severity":"u'INJURY",
+         "street1":"Harrison St",
+         "street2":"Mariposa St",
+         "image_id":158,
+         "year":"2012",
+         "date":"u'20120507",
+         "lng":-122.412899
+      },
+      {
+         "lat":37.7798005,
+         "severity":"u'INJURY",
+         "street1":"Hyde St",
+         "street2":"Fulton St",
+         "image_id":159,
+         "year":"2012",
+         "date":"u'20120320",
+         "lng":-122.4151553
+      },
+      {
+         "lat":37.778542,
+         "severity":"u'INJURY",
+         "street1":"Hyde St",
+         "street2":"Market St",
+         "image_id":160,
+         "year":"2012",
+         "date":"u'20120512",
+         "lng":-122.414813
+      },
+      {
+         "lat":37.78724,
+         "severity":"u'INJURY",
+         "street1":"Hyde St",
+         "street2":"Post St",
+         "image_id":161,
+         "year":"2012",
+         "date":"u'20120226",
+         "lng":-122.41626
+      },
+      {
+         "lat":37.7638988,
+         "severity":"u'INJURY",
+         "street1":"Irving St",
+         "street2":"12th Av",
+         "image_id":162,
+         "year":"2012",
+         "date":"u'20120113",
+         "lng":-122.4695341
+      },
+      {
+         "lat":37.7643813,
+         "severity":"u'INJURY",
+         "street1":"Irving St",
+         "street2":"2nd Av",
+         "image_id":163,
+         "year":"2012",
+         "date":"u'20120316",
+         "lng":-122.4588124
+      },
+      {
+         "lat":37.7972266,
+         "severity":"u'INJURY",
+         "street1":"Jackson St",
+         "street2":"Drumm",
+         "image_id":164,
+         "year":"2012",
+         "date":"u'20120831",
+         "lng":-122.3971684
+      },
+      {
+         "lat":37.8084429,
+         "severity":"u'INJURY",
+         "street1":"Jefferson St",
+         "street2":"Mason St",
+         "image_id":165,
+         "year":"2012",
+         "date":"u'20120318",
+         "lng":-122.4141848
+      },
+      {
+         "lat":37.7839385,
+         "severity":"u'INJURY",
+         "street1":"Jones St",
+         "street2":"Eddy St",
+         "image_id":166,
+         "year":"2012",
+         "date":"u'20120531",
+         "lng":-122.4126255
+      },
+      {
+         "lat":37.7661683,
+         "severity":"u'INJURY",
+         "street1":"Kezar Dr",
+         "street2":"Lincoln",
+         "image_id":167,
+         "year":"2012",
+         "date":"u'20120523",
+         "lng":-122.4604571
+      },
+      {
+         "lat":37.7780083,
+         "severity":"u'INJURY",
+         "street1":"King St",
+         "street2":"3rd St",
+         "image_id":168,
+         "year":"2012",
+         "date":"u'20120601",
+         "lng":-122.3917215
+      },
+      {
+         "lat":37.7780083,
+         "severity":"u'INJURY",
+         "street1":"King St",
+         "street2":"3rd St",
+         "image_id":169,
+         "year":"2012",
+         "date":"u'20120725",
+         "lng":-122.3917215
+      },
+      {
+         "lat":37.7764938,
+         "severity":"u'INJURY",
+         "street1":"King St",
+         "street2":"4th St",
+         "image_id":170,
+         "year":"2012",
+         "date":"u'20120625",
+         "lng":-122.3940593
+      },
+      {
+         "lat":37.7727315,
+         "severity":"u'INJURY",
+         "street1":"Laguna St",
+         "street2":"Haight St",
+         "image_id":171,
+         "year":"2012",
+         "date":"u'20120520",
+         "lng":-122.4255433
+      },
+      {
+         "lat":37.7085827,
+         "severity":"u'INJURY",
+         "street1":"Lakemerced",
+         "street2":"Johnmuir Dr",
+         "image_id":172,
+         "year":"2012",
+         "date":"u'20120628",
+         "lng":-122.4867355
+      },
+      {
+         "lat":37.7762287,
+         "severity":"u'INJURY",
+         "street1":"Lyon St",
+         "street2":"Fulton St",
+         "image_id":173,
+         "year":"2012",
+         "date":"u'20120611",
+         "lng":-122.4431343
+      },
+      {
+         "lat":37.7876655,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"3rd St",
+         "image_id":174,
+         "year":"2012",
+         "date":"u'20120125",
+         "lng":-122.4034605
+      },
+      {
+         "lat":37.7876655,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"3rd St",
+         "image_id":175,
+         "year":"2012",
+         "date":"u'20120306",
+         "lng":-122.4034605
+      },
+      {
+         "lat":37.7876655,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"3rd St",
+         "image_id":176,
+         "year":"2012",
+         "date":"u'20120404",
+         "lng":-122.4034605
+      },
+      {
+         "lat":37.7876655,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"3rd St",
+         "image_id":177,
+         "year":"2012",
+         "date":"u'20120702",
+         "lng":-122.4034605
+      },
+      {
+         "lat":37.7840081,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"5th St",
+         "image_id":178,
+         "year":"2012",
+         "date":"u'20120604",
+         "lng":-122.408092
+      },
+      {
+         "lat":37.7840081,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"5th St",
+         "image_id":179,
+         "year":"2012",
+         "date":"u'20120619",
+         "lng":-122.408092
+      },
+      {
+         "lat":37.7804664,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"7th St",
+         "image_id":180,
+         "year":"2012",
+         "date":"u'20120828",
+         "lng":-122.4125602
+      },
+      {
+         "lat":37.778542,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"8th St",
+         "image_id":181,
+         "year":"2012",
+         "date":"u'20120502",
+         "lng":-122.414813
+      },
+      {
+         "lat":37.7675884,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Church St",
+         "image_id":182,
+         "year":"2012",
+         "date":"u'20120409",
+         "lng":-122.4289385
+      },
+      {
+         "lat":37.7730845,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Gough",
+         "image_id":183,
+         "year":"2012",
+         "date":"u'20120807",
+         "lng":-122.4220455
+      },
+      {
+         "lat":37.7730845,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Gough St",
+         "image_id":184,
+         "year":"2012",
+         "date":"u'20120214",
+         "lng":-122.4220455
+      },
+      {
+         "lat":37.7730845,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Gough St",
+         "image_id":185,
+         "year":"2012",
+         "date":"u'20120728",
+         "lng":-122.4220455
+      },
+      {
+         "lat":37.7707539,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Guerrero St",
+         "image_id":186,
+         "year":"2012",
+         "date":"u'20120307",
+         "lng":-122.4247672
+      },
+      {
+         "lat":37.7707539,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Guerrero St",
+         "image_id":187,
+         "year":"2012",
+         "date":"u'20120629",
+         "lng":-122.4247672
+      },
+      {
+         "lat":37.7717843,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Octavia St",
+         "image_id":188,
+         "year":"2012",
+         "date":"u'20120605",
+         "lng":-122.4236948
+      },
+      {
+         "lat":37.7717843,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Octavia St",
+         "image_id":189,
+         "year":"2012",
+         "date":"u'20120807",
+         "lng":-122.4236948
+      },
+      {
+         "lat":37.7944889,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Steuart St",
+         "image_id":190,
+         "year":"2012",
+         "date":"u'20120103",
+         "lng":-122.3948012
+      },
+      {
+         "lat":37.7725376,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Valencia St",
+         "image_id":191,
+         "year":"2012",
+         "date":"u'20120105",
+         "lng":-122.4227233
+      },
+      {
+         "lat":37.7725376,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Valencia St",
+         "image_id":192,
+         "year":"2012",
+         "date":"u'20120609",
+         "lng":-122.4227233
+      },
+      {
+         "lat":37.7725376,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Valencia St",
+         "image_id":193,
+         "year":"2012",
+         "date":"u'20120816",
+         "lng":-122.4227233
+      },
+      {
+         "lat":37.7725376,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Valencia St",
+         "image_id":194,
+         "year":"2012",
+         "date":"u'20120824",
+         "lng":-122.4227233
+      },
+      {
+         "lat":37.7752057,
+         "severity":"u'INJURY",
+         "street1":"Market St",
+         "street2":"Vanness Av",
+         "image_id":195,
+         "year":"2012",
+         "date":"u'20120821",
+         "lng":-122.4192085
+      },
+      {
+         "lat":37.7972835,
+         "severity":"u'INJURY",
+         "street1":"Mason St",
+         "street2":"Broadway St",
+         "image_id":196,
+         "year":"2012",
+         "date":"u'20120820",
+         "lng":-122.4119693
+      },
+      {
+         "lat":37.8037856,
+         "severity":"u'INJURY",
+         "street1":"Mason St",
+         "street2":"Chestnut St",
+         "image_id":197,
+         "year":"2012",
+         "date":"u'20120723",
+         "lng":-122.4132525
+      },
+      {
+         "lat":37.7881097,
+         "severity":"u'INJURY",
+         "street1":"Mason St",
+         "street2":"Post St",
+         "image_id":198,
+         "year":"2012",
+         "date":"u'20120316",
+         "lng":-122.4100714
+      },
+      {
+         "lat":37.7801822,
+         "severity":"u'INJURY",
+         "street1":"Masonic Av",
+         "street2":"Ewingrd",
+         "image_id":199,
+         "year":"2012",
+         "date":"u'20120722",
+         "lng":-122.447312
+      },
+      {
+         "lat":37.7800871,
+         "severity":"u'INJURY",
+         "street1":"Mcallister St",
+         "street2":"Vanness Av",
+         "image_id":200,
+         "year":"2012",
+         "date":"u'20120303",
+         "lng":-122.4201816
+      },
+      {
+         "lat":37.7800871,
+         "severity":"u'INJURY",
+         "street1":"Mcallister St",
+         "street2":"Vanness Av",
+         "image_id":201,
+         "year":"2012",
+         "date":"u'20120731",
+         "lng":-122.4201816
+      },
+      {
+         "lat":37.7739126,
+         "severity":"u'INJURY",
+         "street1":"Minna St",
+         "street2":"11th St",
+         "image_id":202,
+         "year":"2012",
+         "date":"u'20120119",
+         "lng":-122.416596
+      },
+      {
+         "lat":37.765053,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"16th St",
+         "image_id":203,
+         "year":"2012",
+         "date":"u'20120412",
+         "lng":-122.4197149
+      },
+      {
+         "lat":37.7634242,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"17th St",
+         "image_id":204,
+         "year":"2012",
+         "date":"u'20120624",
+         "lng":-122.4195575
+      },
+      {
+         "lat":37.7618402,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"18th St",
+         "image_id":205,
+         "year":"2012",
+         "date":"u'20120123",
+         "lng":-122.4194024
+      },
+      {
+         "lat":37.7554469,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"22nd St",
+         "image_id":206,
+         "year":"2012",
+         "date":"u'20120406",
+         "lng":-122.4187748
+      },
+      {
+         "lat":37.7809857,
+         "severity":"u'PDO",
+         "street1":"Mission",
+         "street2":"6th St",
+         "image_id":207,
+         "year":"2012",
+         "date":"u'20120112",
+         "lng":-122.4087183
+      },
+      {
+         "lat":37.7762211,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"9th St",
+         "image_id":208,
+         "year":"2012",
+         "date":"u'20120507",
+         "lng":-122.4147406
+      },
+      {
+         "lat":37.7481117,
+         "severity":"u'PDO",
+         "street1":"Mission",
+         "street2":"Cesarchavez",
+         "image_id":209,
+         "year":"2012",
+         "date":"u'20120118",
+         "lng":-122.4182746
+      },
+      {
+         "lat":37.7410379,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Cortland Av",
+         "image_id":210,
+         "year":"2012",
+         "date":"u'20120617",
+         "lng":-122.4228308
+      },
+      {
+         "lat":37.7422213,
+         "severity":"u'PDO",
+         "street1":"Mission",
+         "street2":"Eugenia Av",
+         "image_id":211,
+         "year":"2012",
+         "date":"u'20120422",
+         "lng":-122.4220772
+      },
+      {
+         "lat":37.709959,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Farragut Av",
+         "image_id":212,
+         "year":"2012",
+         "date":"u'20120402",
+         "lng":-122.449354
+      },
+      {
+         "lat":37.709959,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Farragut Av",
+         "image_id":213,
+         "year":"2012",
+         "date":"u'20120421",
+         "lng":-122.449354
+      },
+      {
+         "lat":37.718502,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Italy Av",
+         "image_id":214,
+         "year":"2012",
+         "date":"u'20120427",
+         "lng":-122.4395281
+      },
+      {
+         "lat":37.7292307,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Maynard St",
+         "image_id":215,
+         "year":"2012",
+         "date":"u'20120217",
+         "lng":-122.4308447
+      },
+      {
+         "lat":37.7095608,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Oliver St",
+         "image_id":216,
+         "year":"2012",
+         "date":"u'20120503",
+         "lng":-122.4505181
+      },
+      {
+         "lat":37.7095608,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Oliver St",
+         "image_id":217,
+         "year":"2012",
+         "date":"u'20120531",
+         "lng":-122.4505181
+      },
+      {
+         "lat":37.7211772,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Onondaga Av",
+         "image_id":218,
+         "year":"2012",
+         "date":"u'20120305",
+         "lng":-122.4374998
+      },
+      {
+         "lat":37.7240048,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Sanjuan Av",
+         "image_id":219,
+         "year":"2012",
+         "date":"u'20120109",
+         "lng":-122.4353196
+      },
+      {
+         "lat":37.7176754,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Seneca Av",
+         "image_id":220,
+         "year":"2012",
+         "date":"u'20120609",
+         "lng":-122.4401492
+      },
+      {
+         "lat":37.7276495,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Theresa St",
+         "image_id":221,
+         "year":"2012",
+         "date":"u'20120130",
+         "lng":-122.4324302
+      },
+      {
+         "lat":37.7431247,
+         "severity":"u'INJURY",
+         "street1":"Mission",
+         "street2":"Virginia St",
+         "image_id":222,
+         "year":"2012",
+         "date":"u'20120811",
+         "lng":-122.4214908
+      },
+      {
+         "lat":37.71948,
+         "severity":"u'INJURY",
+         "street1":"Niagara Av",
+         "street2":"Sanjose Av",
+         "image_id":223,
+         "year":"2012",
+         "date":"u'20120718",
+         "lng":-122.4476258
+      },
+      {
+         "lat":37.7658768,
+         "severity":"u'PDO",
+         "street1":"Noe St",
+         "street2":"15th St",
+         "image_id":224,
+         "year":"2012",
+         "date":"u'20121116",
+         "lng":-122.4332402
+      },
+      {
+         "lat":37.7529849,
+         "severity":"u'INJURY",
+         "street1":"Noriega St",
+         "street2":"46th Av",
+         "image_id":225,
+         "year":"2012",
+         "date":"u'20120423",
+         "lng":-122.5054124
+      },
+      {
+         "lat":37.8053079,
+         "severity":"u'INJURY",
+         "street1":"Norlthpoint St",
+         "street2":"Polk St",
+         "image_id":226,
+         "year":"2012",
+         "date":"u'20120304",
+         "lng":-122.4236801
+      },
+      {
+         "lat":37.8061684,
+         "severity":"u'INJURY",
+         "street1":"Northpoint St",
+         "street2":"Jones St",
+         "image_id":227,
+         "year":"2012",
+         "date":"u'20120210",
+         "lng":-122.4170939
+      },
+      {
+         "lat":37.8059434,
+         "severity":"u'INJURY",
+         "street1":"Northpoint St",
+         "street2":"Leavenworth",
+         "image_id":228,
+         "year":"2012",
+         "date":"u'20120312",
+         "lng":-122.4187653
+      },
+      {
+         "lat":37.7729273,
+         "severity":"u'INJURY",
+         "street1":"Oak St",
+         "street2":"Broderick St",
+         "image_id":229,
+         "year":"2012",
+         "date":"u'20120607",
+         "lng":-122.4390897
+      },
+      {
+         "lat":37.7731321,
+         "severity":"u'INJURY",
+         "street1":"Oak St",
+         "street2":"Divisadero St",
+         "image_id":230,
+         "year":"2012",
+         "date":"u'20120402",
+         "lng":-122.4374385
+      },
+      {
+         "lat":37.7731321,
+         "severity":"u'INJURY",
+         "street1":"Oak St",
+         "street2":"Divisadero St",
+         "image_id":231,
+         "year":"2012",
+         "date":"u'20120623",
+         "lng":-122.4374385
+      },
+      {
+         "lat":37.7733533,
+         "severity":"u'INJURY",
+         "street1":"Oak St",
+         "street2":"Scott St",
+         "image_id":232,
+         "year":"2012",
+         "date":"u'20120421",
+         "lng":-122.4357496
+      },
+      {
+         "lat":37.7247017,
+         "severity":"u'INJURY",
+         "street1":"Ocean Av",
+         "street2":"Faxon Av",
+         "image_id":233,
+         "year":"2012",
+         "date":"u'20120720",
+         "lng":-122.459989
+      },
+      {
+         "lat":37.7232099,
+         "severity":"u'INJURY",
+         "street1":"Ocean Av",
+         "street2":"Harold Av",
+         "image_id":234,
+         "year":"2012",
+         "date":"u'20120321",
+         "lng":-122.4531372
+      },
+      {
+         "lat":37.7230347,
+         "severity":"u'INJURY",
+         "street1":"Ocean Av",
+         "street2":"Howth St",
+         "image_id":235,
+         "year":"2012",
+         "date":"u'20120626",
+         "lng":-122.4496335
+      },
+      {
+         "lat":37.7260346,
+         "severity":"u'INJURY",
+         "street1":"Ocean Av",
+         "street2":"Victoria St",
+         "image_id":236,
+         "year":"2012",
+         "date":"u'20120218",
+         "lng":-122.4642215
+      },
+      {
+         "lat":37.7933533,
+         "severity":"u'INJURY",
+         "street1":"Pacific Av",
+         "street2":"Fillmore St",
+         "image_id":237,
+         "year":"2012",
+         "date":"u'20120731",
+         "lng":-122.4346951
+      },
+      {
+         "lat":37.7734778,
+         "severity":"u'INJURY",
+         "street1":"Page",
+         "street2":"Buchanan St",
+         "image_id":238,
+         "year":"2012",
+         "date":"u'20120202",
+         "lng":-122.4273467
+      },
+      {
+         "lat":37.7713688,
+         "severity":"u'INJURY",
+         "street1":"Page",
+         "street2":"Central Av",
+         "image_id":239,
+         "year":"2012",
+         "date":"u'20120811",
+         "lng":-122.4438275
+      },
+      {
+         "lat":37.7707389,
+         "severity":"u'INJURY",
+         "street1":"Page",
+         "street2":"Clayton St",
+         "image_id":240,
+         "year":"2012",
+         "date":"u'20120427",
+         "lng":-122.4487556
+      },
+      {
+         "lat":37.772424,
+         "severity":"u'INJURY",
+         "street1":"Page",
+         "street2":"Scott St",
+         "image_id":241,
+         "year":"2012",
+         "date":"u'20120101",
+         "lng":-122.435558
+      },
+      {
+         "lat":37.7646915,
+         "severity":"u'INJURY",
+         "street1":"Parnassus Av",
+         "street2":"Shrader St",
+         "image_id":242,
+         "year":"2012",
+         "date":"u'20120711",
+         "lng":-122.451221
+      },
+      {
+         "lat":37.7236223,
+         "severity":"u'INJURY",
+         "street1":"Paul",
+         "street2":"Bayshore Bl",
+         "image_id":243,
+         "year":"2012",
+         "date":"u'20120822",
+         "lng":-122.400783
+      },
+      {
+         "lat":37.7292077,
+         "severity":"u'INJURY",
+         "street1":"Phelps St",
+         "street2":"Carroll Av",
+         "image_id":244,
+         "year":"2012",
+         "date":"u'20120105",
+         "lng":-122.4008435
+      },
+      {
+         "lat":37.7398591,
+         "severity":"u'INJURY",
+         "street1":"Phelps St",
+         "street2":"Jerrold Av",
+         "image_id":245,
+         "year":"2012",
+         "date":"u'20120826",
+         "lng":-122.3912753
+      },
+      {
+         "lat":37.7896487,
+         "severity":"u'INJURY",
+         "street1":"Pine St",
+         "street2":"Polk St",
+         "image_id":246,
+         "year":"2012",
+         "date":"u'20120822",
+         "lng":-122.4205116
+      },
+      {
+         "lat":37.786392,
+         "severity":"u'INJURY",
+         "street1":"Polk St",
+         "street2":"Cedar St",
+         "image_id":247,
+         "year":"2012",
+         "date":"u'20120415",
+         "lng":-122.4198492
+      },
+      {
+         "lat":37.8025005,
+         "severity":"u'INJURY",
+         "street1":"Polk St",
+         "street2":"Chestnut St",
+         "image_id":248,
+         "year":"2012",
+         "date":"u'20120522",
+         "lng":-122.4230936
+      },
+      {
+         "lat":37.7896487,
+         "severity":"u'INJURY",
+         "street1":"Polk St",
+         "street2":"Pine St",
+         "image_id":249,
+         "year":"2012",
+         "date":"u'20120127",
+         "lng":-122.4205116
+      },
+      {
+         "lat":37.7896487,
+         "severity":"u'INJURY",
+         "street1":"Polk St",
+         "street2":"Pine St",
+         "image_id":250,
+         "year":"2012",
+         "date":"u'20120722",
+         "lng":-122.4205116
+      },
+      {
+         "lat":37.7821707,
+         "severity":"u'INJURY",
+         "street1":"Polk St",
+         "street2":"Turk St",
+         "image_id":251,
+         "year":"2012",
+         "date":"u'20120306",
+         "lng":-122.4190036
+      },
+      {
+         "lat":37.7821707,
+         "severity":"u'INJURY",
+         "street1":"Polk St",
+         "street2":"Turk St",
+         "image_id":252,
+         "year":"2012",
+         "date":"u'20120606",
+         "lng":-122.4190036
+      },
+      {
+         "lat":37.7968993,
+         "severity":"u'INJURY",
+         "street1":"Polk St",
+         "street2":"Vallejo St",
+         "image_id":253,
+         "year":"2012",
+         "date":"u'20120511",
+         "lng":-122.4219879
+      },
+      {
+         "lat":37.7874653,
+         "severity":"u'INJURY",
+         "street1":"Post St",
+         "street2":"Leavenworth",
+         "image_id":254,
+         "year":"2012",
+         "date":"u'20120716",
+         "lng":-122.4149854
+      },
+      {
+         "lat":37.7881097,
+         "severity":"u'INJURY",
+         "street1":"Post St",
+         "street2":"Mason St",
+         "image_id":255,
+         "year":"2012",
+         "date":"u'20120301",
+         "lng":-122.4100714
+      },
+      {
+         "lat":37.7845329,
+         "severity":"u'INJURY",
+         "street1":"Post St",
+         "street2":"Scott St",
+         "image_id":256,
+         "year":"2012",
+         "date":"u'20120508",
+         "lng":-122.4380144
+      },
+      {
+         "lat":37.7845329,
+         "severity":"u'INJURY",
+         "street1":"Post St",
+         "street2":"Scott St",
+         "image_id":257,
+         "year":"2012",
+         "date":"u'20120717",
+         "lng":-122.4380144
+      },
+      {
+         "lat":37.7529898,
+         "severity":"u'INJURY",
+         "street1":"Potrero Av",
+         "street2":"24th St",
+         "image_id":258,
+         "year":"2012",
+         "date":"u'20120227",
+         "lng":-122.4064139
+      },
+      {
+         "lat":37.7517318,
+         "severity":"u'INJURY",
+         "street1":"Potrero Av",
+         "street2":"25th St",
+         "image_id":259,
+         "year":"2012",
+         "date":"u'20120111",
+         "lng":-122.406148
+      },
+      {
+         "lat":37.7517318,
+         "severity":"u'INJURY",
+         "street1":"Potrero St",
+         "street2":"25th St",
+         "image_id":260,
+         "year":"2012",
+         "date":"u'20120606",
+         "lng":-122.406148
+      },
+      {
+         "lat":37.7571755,
+         "severity":"u'INJURY",
+         "street1":"Vanness",
+         "street2":"21st St",
+         "image_id":261,
+         "year":"2012",
+         "date":"u'20120306",
+         "lng":-122.4167521
+      },
+      {
+         "lat":37.7875555,
+         "severity":"u'INJURY",
+         "street1":"Sacramento St",
+         "street2":"Locust St",
+         "image_id":262,
+         "year":"2012",
+         "date":"u'20120106",
+         "lng":-122.4519593
+      },
+      {
+         "lat":37.7422964,
+         "severity":"u'INJURY",
+         "street1":"Sanjose",
+         "street2":"30th St",
+         "image_id":263,
+         "year":"2012",
+         "date":"u'20120320",
+         "lng":-122.4232184
+      },
+      {
+         "lat":37.7161911,
+         "severity":"u'INJURY",
+         "street1":"Sanjose",
+         "street2":"Lakeview Av",
+         "image_id":264,
+         "year":"2012",
+         "date":"u'20120126",
+         "lng":-122.450411
+      },
+      {
+         "lat":37.732276,
+         "severity":"u'INJURY",
+         "street1":"Sanjose",
+         "street2":"Monterey Bl",
+         "image_id":265,
+         "year":"2012",
+         "date":"u'20120731",
+         "lng":-122.4341322
+      },
+      {
+         "lat":37.7114911,
+         "severity":"u'INJURY",
+         "street1":"Sanjose",
+         "street2":"Sagamore St",
+         "image_id":266,
+         "year":"2012",
+         "date":"u'20120109",
+         "lng":-122.4556034
+      },
+      {
+         "lat":37.7660087,
+         "severity":"u'INJURY",
+         "street1":"Sanches St",
+         "street2":"15th St",
+         "image_id":267,
+         "year":"2012",
+         "date":"u'20120127",
+         "lng":-122.4310357
+      },
+      {
+         "lat":37.7667981,
+         "severity":"u'INJURY",
+         "street1":"Sanchez St",
+         "street2":"Henry St",
+         "image_id":268,
+         "year":"2012",
+         "date":"u'20120607",
+         "lng":-122.4310943
+      },
+      {
+         "lat":37.7339679,
+         "severity":"u'INJURY",
+         "street1":"Sloat Bl",
+         "street2":"37th Av",
+         "image_id":269,
+         "year":"2012",
+         "date":"u'20120603",
+         "lng":-122.4944156
+      },
+      {
+         "lat":37.75417,
+         "severity":"u'INJURY",
+         "street1":"Southva",
+         "street2":"23rd St",
+         "image_id":270,
+         "year":"2012",
+         "date":"u'20120202",
+         "lng":-122.4131527
+      },
+      {
+         "lat":37.7525524,
+         "severity":"u'INJURY",
+         "street1":"Southva",
+         "street2":"24th St",
+         "image_id":271,
+         "year":"2012",
+         "date":"u'20120525",
+         "lng":-122.4132704
+      },
+      {
+         "lat":37.7793637,
+         "severity":"u'INJURY",
+         "street1":"Steiner St",
+         "street2":"Goldengate Av",
+         "image_id":272,
+         "year":"2012",
+         "date":"u'20120518",
+         "lng":-122.433592
+      },
+      {
+         "lat":37.7858792,
+         "severity":"u'INJURY",
+         "street1":"Steiner St",
+         "street2":"Sutter St",
+         "image_id":273,
+         "year":"2012",
+         "date":"u'20120223",
+         "lng":-122.4348875
+      },
+      {
+         "lat":37.7879902,
+         "severity":"u'INJURY",
+         "street1":"Sutter St",
+         "street2":"Larkin St",
+         "image_id":274,
+         "year":"2012",
+         "date":"u'20120221",
+         "lng":-122.4185029
+      },
+      {
+         "lat":37.7850798,
+         "severity":"u'INJURY",
+         "street1":"Taylor St",
+         "street2":"Ellis St",
+         "image_id":275,
+         "year":"2012",
+         "date":"u'20120615",
+         "lng":-122.4111597
+      },
+      {
+         "lat":37.7832142,
+         "severity":"u'INJURY",
+         "street1":"Taylor St",
+         "street2":"Turk St",
+         "image_id":276,
+         "year":"2012",
+         "date":"u'20120503",
+         "lng":-122.4107842
+      },
+      {
+         "lat":37.7690145,
+         "severity":"u'INJURY",
+         "street1":"Terryfr",
+         "street2":"South St",
+         "image_id":277,
+         "year":"2012",
+         "date":"u'20120718",
+         "lng":-122.3862964
+      },
+      {
+         "lat":37.8081151,
+         "severity":"u'INJURY",
+         "street1":"The Embarcadero",
+         "street2":"Grant Av",
+         "image_id":278,
+         "year":"2012",
+         "date":"u'20120504",
+         "lng":-122.4090985
+      },
+      {
+         "lat":37.7944731,
+         "severity":"u'INJURY",
+         "street1":"The Embarcadero",
+         "street2":"Market St",
+         "image_id":279,
+         "year":"2012",
+         "date":"u'20121028",
+         "lng":-122.3948775
+      },
+      {
+         "lat":37.7806303,
+         "severity":"u'INJURY",
+         "street1":"Townsend St",
+         "street2":"2nd St",
+         "image_id":280,
+         "year":"2012",
+         "date":"u'20120124",
+         "lng":-122.3905427
+      },
+      {
+         "lat":37.769894,
+         "severity":"u'INJURY",
+         "street1":"Townsend St",
+         "street2":"Division St",
+         "image_id":281,
+         "year":"2012",
+         "date":"u'20120322",
+         "lng":-122.403301
+      },
+      {
+         "lat":37.755769,
+         "severity":"u'INJURY",
+         "street1":"Treat St",
+         "street2":"22nd St",
+         "image_id":282,
+         "year":"2012",
+         "date":"u'20120304",
+         "lng":-122.4132978
+      },
+      {
+         "lat":37.7834308,
+         "severity":"u'INJURY",
+         "street1":"Turk St",
+         "street2":"Mason St",
+         "image_id":283,
+         "year":"2012",
+         "date":"u'20120823",
+         "lng":-122.4091512
+      },
+      {
+         "lat":37.7821707,
+         "severity":"u'INJURY",
+         "street1":"Turk St",
+         "street2":"Polk St",
+         "image_id":284,
+         "year":"2012",
+         "date":"u'20120419",
+         "lng":-122.4190036
+      },
+      {
+         "lat":37.7594495,
+         "severity":"u'INJURY",
+         "street1":"Twinpeaks",
+         "street2":"Graystonete",
+         "image_id":285,
+         "year":"2012",
+         "date":"u'20120417",
+         "lng":-122.447336
+      },
+      {
+         "lat":37.7410921,
+         "severity":"u'INJURY",
+         "street1":"Ulloa St",
+         "street2":"21st Av",
+         "image_id":286,
+         "year":"2012",
+         "date":"u'20120312",
+         "lng":-122.4777116
+      },
+      {
+         "lat":37.7625788,
+         "severity":"u'INJURY",
+         "street1":"Valencia",
+         "street2":"Sycamore",
+         "image_id":287,
+         "year":"2012",
+         "date":"u'20120217",
+         "lng":-122.4216856
+      },
+      {
+         "lat":37.7681528,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"14th St",
+         "image_id":288,
+         "year":"2012",
+         "date":"u'20120115",
+         "lng":-122.4222248
+      },
+      {
+         "lat":37.7681528,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"14th St",
+         "image_id":289,
+         "year":"2012",
+         "date":"u'20120606",
+         "lng":-122.4222248
+      },
+      {
+         "lat":37.7665431,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"15th St",
+         "image_id":290,
+         "year":"2012",
+         "date":"u'20120326",
+         "lng":-122.4220576
+      },
+      {
+         "lat":37.7632962,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"17th St",
+         "image_id":291,
+         "year":"2012",
+         "date":"u'20120316",
+         "lng":-122.421752
+      },
+      {
+         "lat":37.7584974,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"20th St",
+         "image_id":292,
+         "year":"2012",
+         "date":"u'20120210",
+         "lng":-122.4212866
+      },
+      {
+         "lat":37.7584974,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"20th St",
+         "image_id":293,
+         "year":"2012",
+         "date":"u'20120420",
+         "lng":-122.4212866
+      },
+      {
+         "lat":37.7584974,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"20th St",
+         "image_id":294,
+         "year":"2012",
+         "date":"u'20120726",
+         "lng":-122.4212866
+      },
+      {
+         "lat":37.7568988,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"21st St",
+         "image_id":295,
+         "year":"2012",
+         "date":"u'20120219",
+         "lng":-122.4211319
+      },
+      {
+         "lat":37.7489079,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"26th St",
+         "image_id":296,
+         "year":"2012",
+         "date":"u'20120414",
+         "lng":-122.4203495
+      },
+      {
+         "lat":37.7698675,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"Duboce",
+         "image_id":297,
+         "year":"2012",
+         "date":"u'20120223",
+         "lng":-122.4223893
+      },
+      {
+         "lat":37.7625788,
+         "severity":"u'INJURY",
+         "street1":"Valencia St",
+         "street2":"Sycamore St",
+         "image_id":298,
+         "year":"2012",
+         "date":"u'20120829",
+         "lng":-122.4216856
+      },
+      {
+         "lat":37.775056,
+         "severity":"u'INJURY",
+         "street1":"Vanness",
+         "street2":"Market St",
+         "image_id":299,
+         "year":"2012",
+         "date":"u'20120513",
+         "lng":-122.419321
+      },
+      {
+         "lat":37.7866489,
+         "severity":"u'INJURY",
+         "street1":"Vanness",
+         "street2":"Post St",
+         "image_id":300,
+         "year":"2012",
+         "date":"u'20120510",
+         "lng":-122.4215008
+      },
+      {
+         "lat":37.7646778,
+         "severity":"u'INJURY",
+         "street1":"Vermont St",
+         "street2":"17th St",
+         "image_id":301,
+         "year":"2012",
+         "date":"u'20120301",
+         "lng":-122.4045215
+      },
+      {
+         "lat":37.7845195,
+         "severity":"u'INJURY",
+         "street1":"Webster St",
+         "street2":"Geary Bl",
+         "image_id":302,
+         "year":"2012",
+         "date":"u'20120716",
+         "lng":-122.4312314
+      },
+      {
+         "lat":37.7760469,
+         "severity":"u'INJURY",
+         "street1":"Webster St",
+         "street2":"Hayes St",
+         "image_id":303,
+         "year":"2012",
+         "date":"u'20120723",
+         "lng":-122.4295518
+      },
+      {
+         "lat":37.7746514,
+         "severity":"u'INJURY",
+         "street1":"Webster St",
+         "street2":"Hickory St",
+         "image_id":304,
+         "year":"2012",
+         "date":"u'20120204",
+         "lng":-122.4292685
+      },
+      {
+         "lat":37.7807142,
+         "severity":"u'INJURY",
+         "street1":"Webster St",
+         "street2":"Turk St",
+         "image_id":305,
+         "year":"2012",
+         "date":"u'20120215",
+         "lng":-122.4304707
+      },
+      {
+         "lat":37.7560549,
+         "severity":"u'INJURY",
+         "street1":"York St",
+         "street2":"22nd St",
+         "image_id":306,
+         "year":"2012",
+         "date":"u'20120422",
+         "lng":-122.4085016
+      }
+   ],
+   "source":"http://sf-police.org/"
+}
