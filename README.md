@@ -86,3 +86,7 @@ https://data.sfgov.org/Geographic-Locations-and-Boundaries/San-Francisco-Basemap
  * SF topo Shapefiles
 
 https://data.sfgov.org/Geographic-Locations-and-Boundaries/Elevation-Contours-Zipped-Shapefile-Format-/x467-4ghd
+
+* Weather data SF:
+
+https://github.com/zamfi/sf-weather/blob/master/sf-weather.json
