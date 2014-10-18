@@ -36,6 +36,9 @@ https://github.com/BayCitizen/dataapps/blob/master/data_apps/bc_dataapps_templat
 Bicycle Parking - 
 https://data.sfgov.org/Transportation/Bicycle-Parking-Public-/w969-5mn4
 
+Bicycle Parking - pretty JSON:
+  Matches format of "Bicycle Crashes" above, but neither is yet in GeoJSON [I'm having some issues getting GeoJSON to render properly in Leaflet - any input appreciated]
+
 Mapping resources:
 
 Bikesy API:

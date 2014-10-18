@@ -1,0 +1,48 @@
+{
+   "features" : [
+      {
+         "geometry" : {
+            "coordinates" : [ -122.42177834, 37.78346622 ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "ADDRESS" : "939 ELLIS ST",
+            "LOCATION_NAME" : "Bay Area Air Quality Management District (BAAQMD)",
+            "MO_INSTALLED" : "8",
+            "PLACEMENT" : "SW",
+            "RACKS" : "2",
+            "SPACES" : "4",
+            "STREET_NAME" : "ELLIS",
+            "YR_INSTALLED" : "1997",
+            "human_address" : "ELLIS"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [ -122.414411, 37.774458 ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "ADDRESS" : "1380 HOWARD ST",
+            "LOCATION_NAME" : "San Francisco Department of Public Health",
+            "MO_INSTALLED" : "UK",
+            "PLACEMENT" : "SW",
+            "RACKS" : "1",
+            "SPACES" : "2",
+            "STREET_NAME" : "HOWARD",
+            "YR_INSTALLED" : "1998",
+            "human_address" : "HOWARD"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {},
+         "properties" : {
+            "ADDRESS" : ""
+         },
+         "type" : "Feature"
+      }
+   ],
+   "type" : "FeatureCollection"
+}
